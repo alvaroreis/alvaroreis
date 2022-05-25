@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/alvaroreis/alvaroreis/raw/main/assets/header-profile.gif" alt="Oi,  eu sou Álvaro">
+</p>
 
 <!--
 How to make the bio gif ?
