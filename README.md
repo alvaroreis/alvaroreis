@@ -15,9 +15,9 @@
 
   ![Snake animation](https://github.com/alvaroreis/alvaroreis/blob/output/github-contribution-grid-snake.svg)
   
-<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroreis&show_icons=true&theme=dracula&locale=pt-BR&layout=compact" alt="alvaroreis" /></p>
+<p><img align="left" height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroreis&show_icons=true&theme=dracula&locale=pt-BR&layout=compact" alt="alvaroreis" /></p>
 
-<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=alvaroreis&show_icons=true&theme=dracula&locale=pt-BR" alt="alvaroreis" /></p>
+<p>&nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=alvaroreis&show_icons=true&theme=dracula&locale=pt-BR" alt="alvaroreis" /></p>
 
 <br />
 <h3 align="center">🔗 Entre em contato comigo</h3>
