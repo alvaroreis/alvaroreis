@@ -14,7 +14,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 
 - 🔭 Atualmente estou trabalhando na [WPE4BANK](https://wpe4bank.com/)
 - 👨‍💻 Atualmente estou aprendendo a **desenvolver aplicativos com Dart/Flutter**
-- 📄 Saiba mais sobre mim [https://www.linkedin.com/in/reisalvaro/](https://www.linkedin.com/in/reisalvaro/)
+- 📄 Saiba mais sobre mim no meu [LinkedIn](https://www.linkedin.com/in/reisalvaro/)
 - ⚡ Curiosidades sobre mim **Sou cristão, então não poderia deixar de dizer que "Jesus ❤ você".**
 <details>
   <summary>
