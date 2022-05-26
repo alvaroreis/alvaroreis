@@ -203,7 +203,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <p>&nbsp;<img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=alvaroreis&show_icons=true&theme=dracula&locale=pt-BR" alt="alvaroreis" /></p>
 
 <br />
-<h3 align="center">🔗 Entre em contato comigo</h3>
+<h3 align="center">👇Dúvida, Crítica, Elogio ou Sugestão</h3>
 <p align="center">
   <a href="https://linkedin.com/in/reisalvaro" target="blank"
     ><img
@@ -231,7 +231,13 @@ Then i save result to [assets/github.gif](assets/github.gif)
   /></a>
 </p>
 
+<!-- <p align="center">Nossa maior fraqueza é desistir. O caminho mais certo para o sucesso é sempre tentar apenas uma vez mais.
+<br /> <strong><i>Thomas Edison</i></strong></p> -->
+
+<p align="center">O sucesso é a soma de pequenos esforços repetidos dia após dia. <br /> <strong><i>Robert Collier</i></strong></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alvaroreis&label=Profile%20views&color=009dff&style=flat" alt="alvaroreis" /> </p>
+
 <!--
 **alvaroreis/alvaroreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
