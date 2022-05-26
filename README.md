@@ -16,6 +16,59 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 👨‍💻 Estou aprendendo a **desenvolver aplicativos com Dart/Flutter**.
 - 📄 Saiba mais sobre mim no meu [LinkedIn](https://www.linkedin.com/in/reisalvaro/).
 - ⚡ Curiosidades sobre mim **Sou cristão, então não poderia deixar de dizer que "Jesus ❤ você"**.
+
+<h3>🚀 Tecnologias do meu dia a dia</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+      alt="java"
+      height="30"
+    />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+      alt="spring"
+      height="30"
+    />
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+      alt="dart"
+      height="30"
+    />
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+      alt="flutter"
+      height="30"
+    />
+  </a>
+  <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"
+      alt="ionic"
+      height="30"
+    />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"
+      alt="oracle"
+      height="30"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"
+      height="30"
+    />
+  </a>
+  
 <details>
   <summary>
     <h3>🛠 Algumas linguagens e ferramentas que eu uso</h3>
