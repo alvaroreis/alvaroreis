@@ -211,7 +211,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="reisalvaro"
       height="30"
-      style="margin-top: 5px"
+      style="margin-top: 5px;max-width: 100%;"
   /></a>
   <a href="https://instagram.com/_alvaroreis" target="blank"
     ><img
@@ -219,7 +219,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="_alvaroreis"
       height="30"
-      style="margin-top: 5px"
+      style="margin-top: 5px;max-width: 100%;"
   /></a>
   <a href="https://discord.gg/LUIZ#4547" target="blank"
     ><img
@@ -227,7 +227,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
       alt="LUIZ#4547"
       height="30"
-      style="margin-top: 5px"
+      style="margin-top: 5px;max-width: 100%;"
   /></a>
 </p>
 
