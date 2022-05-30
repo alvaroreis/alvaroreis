@@ -274,14 +274,14 @@ Then i save result to [assets/github.gif](assets/github.gif)
       height="30"
       style="margin-top: 5px;max-width: 100%;"
   /></a>
-  <a href="https://discord.gg/LUIZ#4547" target="blank"
+  <!--<a href="https://discord.gg/LUIZ#4547" target="blank"
     ><img
       align="center"
       src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
       alt="LUIZ#4547"
       height="30"
       style="margin-top: 5px;max-width: 100%;"
-  /></a>
+  /></a> -->
 </p>
 
 <!-- <p align="center">Nossa maior fraqueza é desistir. O caminho mais certo para o sucesso é sempre tentar apenas uma vez mais.
